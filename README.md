@@ -10,6 +10,7 @@ Contains a not so secure method to have a chat online with a small server based 
 
 Yes 0% creativity 
 
+<img src="./ss/1.jpeg" width="400" height="790">
 
 ![plot](./ss/1.jpeg?raw=true "Nothing To Say"){:height="50%" width="50%"}
 
