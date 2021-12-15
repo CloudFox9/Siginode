@@ -1,16 +1,28 @@
 # flutter_demos
 
-A new Flutter project.
+SigiNode a application made with Flutter and Node.js (socket.io)
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Contains a not so secure method to have a chat online with a small server based script , currently local host (was at digital ocean but no payment no server they say , rude as aws)
 
-A few resources to get you started if this is your first Flutter project:
+### Screen Shots 
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Yes 0% creativity 
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Alt text](1.jpeg?raw=true "Nothing To Say")
+
+![Alt text](2.jpeg?raw=true "Nothing To Say")
+
+![Alt text](3.jpeg?raw=true "Nothing To Say")
+
+![Alt text](4.jpeg?raw=true "Nothing To Say")
+
+![Alt text](5.jpeg?raw=true "Nothing To Say")
+
+### Server Shot 
+
+So secure !
+
+![Alt text](Capture.png?raw=true "Nothing To Say")
+

@@ -6,7 +6,7 @@ import 'package:adhara_socket_io/adhara_socket_io.dart';
 class SocketUtils {
   //
   static String _serverIP =
-      Platform.isIOS ? 'http://192.168.1.61' : 'http://192.168.1.61';
+      Platform.isIOS ? 'http://192.168.1.46' : 'http://192.168.1.46';
   static const int SERVER_PORT = 4002;
   static String _connectUrl = '$_serverIP:$SERVER_PORT';
 
