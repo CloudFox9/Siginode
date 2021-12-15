@@ -10,14 +10,16 @@ Contains a not so secure method to have a chat online with a small server based 
 
 Yes 0% creativity 
 
+<img src="1.jpeg" alt="My cool logo"/>
+
 ![Screenshot](1.jpeg?raw=true "Nothing To Say")
-![Screenshot]
+
 ![Screenshot](2.jpeg?raw=true "Nothing To Say")
-![Screenshot]
+
 ![Screenshot](3.jpeg?raw=true "Nothing To Say")
-![Screenshot]
+
 ![Screenshot](4.jpeg?raw=true "Nothing To Say")
-![Screenshot]
+
 ![Screenshot](5.jpeg?raw=true "Nothing To Say")
 
 ### Server Shot 
