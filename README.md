@@ -11,9 +11,9 @@ Contains a not so secure method to have a chat online with a small server based 
 Yes 0% creativity 
 
 
-![plot](./ss/1.jpeg?raw=true "Nothing To Say")
+![plot](./ss/1.jpeg?raw=true "Nothing To Say"){:height="50%" width="50%"}
 
-![Screenshot](ss/2.jpeg?raw=true "Nothing To Say")
+![Screenshot](ss/2.jpeg?raw=true "Nothing To Say"){:height="50%" width="50%"}
 
 ![Screenshot](ss/3.jpeg?raw=true "Nothing To Say")
 
