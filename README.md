@@ -12,19 +12,17 @@ Yes 0% creativity
 
 <img src="./ss/1.jpeg" width="400" height="790">
 
-![plot](./ss/1.jpeg?raw=true "Nothing To Say"){:height="50%" width="50%"}
+<img src="./ss/2.jpeg" width="400" height="790">
 
-![Screenshot](ss/2.jpeg?raw=true "Nothing To Say"){:height="50%" width="50%"}
+<img src="./ss/3.jpeg" width="400" height="790">
 
-![Screenshot](ss/3.jpeg?raw=true "Nothing To Say")
+<img src="./ss/4.jpeg" width="400" height="790">
 
-![Screenshot](ss/4.jpeg?raw=true "Nothing To Say")
-
-![Screenshot](ss/5.jpeg?raw=true "Nothing To Say")
+<img src="./ss/5.jpeg" width="400" height="790">
 
 ### Server Shot 
 
 So secure !
 
-![Screenshot](ss/Capture.png?raw=true "Nothing To Say")
+<img src="./ss/6.PNG" width="800" height="390">
 
