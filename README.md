@@ -24,5 +24,5 @@ Yes 0% creativity
 
 So secure !
 
-<img src="./ss/6.PNG" width="800" height="390">
+<img src="./ss/6.PNG" width="1000" height="290">
 
